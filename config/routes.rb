@@ -6,4 +6,6 @@ Rails.application.routes.draw do
   #about
   get "about", to: "about#index"
 
+
+
 end
